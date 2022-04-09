@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  background-color: antiquewhite;
+}
+
+ul {
+  display: flex;
+  margin: 0 auto;
+  list-style: none;
+}
+
+ul li {
+  padding: 10px 15px;
+}
+
+.nav-title {
+  text-decoration: none;
+  color: black;
+}
